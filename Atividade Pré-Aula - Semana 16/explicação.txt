@@ -1,0 +1,2 @@
+Certifique-se de ter a biblioteca networkx instalada para executar esses códigos. 
+Os grafos serão exibidos utilizando a biblioteca matplotlib.pyplot.
